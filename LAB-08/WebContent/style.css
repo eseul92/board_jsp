@@ -1,0 +1,36 @@
+@CHARSET "EUC-KR";
+
+div{
+	width:800px;
+	margin:0 auto;
+	padding:0;
+}
+div a{
+	margin:10px;
+	color:black;
+}
+.header{
+	background:#519d9e;
+	color:#fff;
+	font-weight:bold;
+}
+.context{
+	background:#fdc8c8;
+}
+.bTitle{
+	color:#000;
+	text-decoration:none;
+}
+.bTitle:hover, .add a:hover{
+	background: #58c9b9;
+	text-decoration:underline;
+}
+	
+.add{
+	background:#d1b6e1;
+}
+
+.add a{
+	color:#011638;
+	text-decoration:none;
+}
